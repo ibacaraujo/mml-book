@@ -1,4 +1,4 @@
-Para mostrar que (R\{-1}, *) seria um grupo Abeliano, precisamos mostrar que as propriedades se aplicam.
+a. Para mostrar que (R\{-1}, *) seria um grupo Abeliano, precisamos mostrar que as propriedades se aplicam.
 
 1. Fechamento.
 2. Associatividade.
@@ -23,3 +23,15 @@ Inverso. Devemos determinar que a * a` = 0. Desenvolvendo, obtemos aa` + a + a` 
 Comutatividade. Mostrar que a * b = b * a. Desenvolvendo os dois termos obtemos ab + a + b = ba + b + a. Como pela comutatividade do produto de termos em R, ab = ba, temos que os termos são iguais.
 
 Assim, considerando que todas as propriedades de um grupo Abeliano se mostram verdadeiras, mostramos que (R\{-1}, *) seria um grupo Abeliano.
+
+b. 3 * x * x = 15.
+
+(3x + 3 + x) * x = 15.
+
+(3x + 3 + x)x + 3x + 3 + x + x = 15.
+
+3xˆ2 + 3x + xˆ2 + 3x + 3 + x + x = 15.
+
+4xˆ2 + 8x + 3 = 15.
+
+4xˆ2 + 8x + 3 - 15 = 0.
